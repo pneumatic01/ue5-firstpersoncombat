@@ -1,3 +1,3 @@
 prototype game in unreal engine 5
 
-Showcase video - https://youtu.be/IsFR2EzDgB0
+gameplay - https://youtu.be/IsFR2EzDgB0
